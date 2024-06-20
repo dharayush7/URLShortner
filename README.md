@@ -1,6 +1,6 @@
 # URLShorner
 
-It is a login Base NODE JS Server that creates a short URL. The frontend design uses JSX liberties and bootstrap templates. For databases there is MongoDB.   
+It is a login Base NODE JS Server that creates a short URL. The frontend design uses EJX liberties and bootstrap templates. For databases there is MongoDB.   
 
 ## Installation
 
