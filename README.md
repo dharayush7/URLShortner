@@ -21,3 +21,7 @@ npm start
 
 Go to localhost 8000 port, first click on Analytics, and there is an auto redirect to the login page. Complete the step and redirect it to the home.
 
+## License
+
+[MIT](https://license.ayushdhar.com/bBTmrKVTK)
+
